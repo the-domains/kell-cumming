@@ -1,0 +1,28 @@
+name: KELL-CUMMING
+favicon: null
+layout_spectrum: 0.19597446406260133
+typography_spectrum: 0.007206823443993926
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.6595126844476908
+  lightness: 0.04773415462113917
+  saturation: 0.3449037235695869
+  rhythmicContrast: 0.26884582196362317
+purpose: []
