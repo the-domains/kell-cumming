@@ -1,6 +1,6 @@
 name: KELL-CUMMING
 favicon: null
-layout_spectrum: 0.50125
+layout_spectrum: 0.53477
 typography_spectrum: 1
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#ff0000'
     - '#000000'
     - '#aa5500'
-  brandStrength: 0.625
+  brandStrength: 0.375
   lightness: 0.1875
-  saturation: 0.5
+  saturation: 0.375
   rhythmicContrast: 0.25
 purpose: []
